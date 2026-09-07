@@ -27,36 +27,10 @@ app.add_middleware(
 
 # Load model
 model_artifact = joblib.load(model_path)
-
 model = model_artifact["model"]
 smearing_factor = model_artifact["smearing_factor"]
 metadata_path = Path(__file__).parent.joinpath("metadata.json")
-base = {
-    "Brand": "Audi",
-    "model": "A3",
-    "Age": 2,
-    "kmDriven": 45000,
-    "Transmission": "Automatic",
-    "Owner": "first",
-    "FuelType": "Petrol",
-    "EngineCapacity": 1.5,
-}
-
-for variant in [None, "AMG"]:
-
-    data = base.copy()
-    data["Varient"] = variant
-
-    X = pd.DataFrame([data])
-
-    prediction_log = model.predict(X)[0]
-    prediction = np.expm1(prediction_log) * smearing_factor
-
-    print(f"Varient = {variant}")
-    print(f"Log prediction = {prediction_log}")
-    print(f"Prediction = ₹{prediction:,.2f}")
-    print(f"Lakh = ₹{prediction / 100000:.2f} Lakh")
-    print("-" * 50)
+print(metadata_path)
 with open(metadata_path, "r", encoding="utf-8") as file:
     metadata = json.load(file)
 
