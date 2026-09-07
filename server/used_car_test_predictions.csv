@@ -1,0 +1,21 @@
+Brand,model,Age,kmDriven,Transmission,Owner,FuelType,Varient,EngineCapacity
+Audi,A3,2,45000,Automatic,first,Petrol,,1.5
+Audi,A4,4,52000,Automatic,first,Petrol,,2.0
+BMW,3 Series,3,38000,Automatic,first,Petrol,,2.0
+BMW,5 Series,7,65000,Automatic,second,Diesel,,2.0
+Mercedes-Benz,C-Class,5,48000,Automatic,first,Diesel,,2.0
+Mercedes-Benz,E-Class,6,55000,Automatic,first,Diesel,AMG,2.0
+Toyota,Fortuner,4,60000,Manual,first,Diesel,,2.8
+Toyota,Innova Crysta,5,70000,Manual,second,Diesel,,2.4
+Mahindra,Thar,3,30000,Manual,first,Diesel,,2.0
+Maruti Suzuki,Swift,4,42000,Manual,first,Petrol,,1.2
+Hyundai,i20,3,35000,Manual,first,Petrol,Sportz,1.2
+Honda,City,4,45000,Manual,first,Petrol,,1.5
+Volkswagen,Vento,8,72000,Manual,second,Diesel,,1.6
+Tata,Nexon,3,28000,Manual,first,Petrol,,1.2
+Kia,Seltos,4,50000,Automatic,first,Petrol,,1.5
+Land Rover,Range Rover Sport,6,65000,Automatic,first,Diesel,,3.0
+Porsche,Cayenne,5,40000,Automatic,first,Petrol,,3.0
+Lexus,ES,4,30000,Automatic,first,Petrol,,2.5
+Maruti Suzuki,Alto 800,7,55000,Manual,second,Petrol,,0.8
+Hyundai,Creta,2,22000,Automatic,first,Diesel,,1.5

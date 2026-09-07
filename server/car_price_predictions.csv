@@ -1,0 +1,51 @@
+Brand,model,Age,kmDriven,Transmission,Owner,FuelType,Varient,EngineCapacity,predicted_price,predicted_price_lakh
+Maruti Suzuki,Swift,12,49000,Manual,first,Petrol,VXI,1.2,290507.76,2.91
+Maruti Suzuki,Swift,2,35482,Manual,first,Petrol,VXI,1.2,842321.24,8.42
+Maruti Suzuki,Swift,9,99448,Manual,second,Petrol,VXI,1.2,382081.55,3.82
+Maruti Suzuki,Swift,1,16000,Manual,first,Petrol,VXI,1.2,941048.3,9.41
+Maruti Suzuki,Swift,10,87224,Manual,second,Petrol,VXI,1.2,344626.28,3.45
+Maruti Suzuki,Swift,10,55738,Manual,second,Petrol,VXI,1.2,347257.7,3.47
+Maruti Suzuki,Swift,7,46641,Manual,second,Petrol,VXI,1.2,478494.45,4.78
+Maruti Suzuki,Swift,4,100000,Manual,second,Petrol,VXI,1.2,649454.88,6.49
+Maruti Suzuki,Swift,6,67000,Manual,second,Petrol,VXI,1.2,529457.39,5.29
+Maruti Suzuki,Swift,3,37397,Automatic,first,Petrol,VXI,1.2,797139.77,7.97
+Honda,City,9,114945,Automatic,third,Petrol,VX,1.5,592474.81,5.92
+Honda,City,8,50680,Manual,first,Petrol,VX,1.5,645869.16,6.46
+Honda,City,7,90000,Manual,first,Petrol,,1.5,724146.67,7.24
+Honda,City,8,45000,Manual,first,Petrol,VX,1.5,646756.04,6.47
+Honda,City,8,160000,Automatic,first,Petrol,VX,1.5,662250.9,6.62
+Honda,City,1,22420,Manual,first,Petrol,V,1.5,1391418.24,13.91
+Honda,City,10,127000,Manual,second,Diesel,,1.5,537604.61,5.38
+Honda,City,6,75000,Manual,second,Petrol,V,1.5,782548.28,7.83
+Honda,City,10,86694,Manual,second,Petrol,VX,1.5,501425.43,5.01
+Honda,City,9,93085,Manual,third,Petrol,V,1.5,575881.21,5.76
+Hyundai,Creta,1,36000,Automatic,second,Petrol,SX,1.5,1705408.07,17.05
+Hyundai,Creta,2,50596,Manual,second,Diesel,SX,1.6,1543446.58,15.43
+Hyundai,Creta,5,53266,Automatic,first,Petrol,SX,1.6,1146832.56,11.47
+Hyundai,Creta,4,75154,Manual,first,Petrol,SX,1.5,1205262.21,12.05
+Hyundai,Creta,0,10000,Automatic,first,Petrol,SX,1.5,1970723.12,19.71
+Hyundai,Creta,5,77493,Automatic,first,Petrol,SX,1.6,1140139.88,11.4
+Hyundai,Creta,5,36531,Manual,first,Petrol,SX,1.6,1093724.83,10.94
+Hyundai,Creta,7,61506,Manual,first,Petrol,SX,1.6,879240.08,8.79
+Hyundai,Creta,7,80000,Manual,first,Petrol,SX,1.6,875320.5,8.75
+Hyundai,Creta,4,61281,Manual,first,Petrol,S,1.5,1234221.2,12.34
+Tata,Nexon,2,40000,Manual,first,Petrol,,1.2,1017567.14,10.18
+Tata,Nexon,4,80974,Manual,first,Petrol,XM,1.2,814861.63,8.15
+Tata,Nexon,5,56618,Manual,second,Petrol,XT,1.2,639381.38,6.39
+Tata,Nexon,2,19092,Manual,second,Petrol,,1.2,990324.26,9.9
+Tata,Nexon,2,120000,Manual,first,Diesel,,1.5,1060549.15,10.61
+Tata,Nexon,3,66041,Manual,first,Petrol,XM,1.2,909370.28,9.09
+Tata,Nexon,2,28318,Manual,first,Petrol,,1.2,1020442.98,10.2
+Tata,Nexon,3,35918,Manual,first,Petrol,,1.2,916012.15,9.16
+Tata,Nexon,2,62443,Automatic,first,Diesel,XZA,1.5,1165790.25,11.66
+Tata,Nexon,3,38633,Manual,first,Petrol,,1.2,915411.53,9.15
+Hyundai,i20,4,120000,Manual,first,Petrol,Sportz,1.2,751889.56,7.52
+Hyundai,i20,2,22000,Automatic,first,Petrol,Asta,1,1061044.42,10.61
+Hyundai,i20,5,58155,Manual,first,Petrol,Sportz,1.2,686361.07,6.86
+Hyundai,i20,7,78000,Manual,second,Petrol,,1.2,513884.91,5.14
+Hyundai,i20,1,12000,Manual,first,Petrol,Sportz,1.2,1061098.5,10.61
+Hyundai,i20,9,62000,Manual,first,Diesel,Sportz,1.4,476744.33,4.77
+Hyundai,i20,5,12520,Manual,first,Petrol,Magna,1.2,666646.5,6.67
+Hyundai,i20,0,20744,Automatic,first,Petrol,Sportz,1,1240359.17,12.4
+Hyundai,i20,0,15000,Manual,first,Petrol,Asta,1.2,1247467.28,12.47
+Hyundai,i20,10,48200,Manual,first,Petrol,Asta,1.2,428197.82,4.28

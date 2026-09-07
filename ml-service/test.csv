@@ -1,0 +1,4 @@
+Brand,model,Age,kmDriven,Transmission,Owner,FuelType,Varient,EngineCapacity
+Audi,A3,2,45000,Automatic,first,Petrol,,1.5
+BMW,3 Series,4,35000,Automatic,first,Petrol,,2.0
+Mercedes-Benz,C-Class,5,50000,Automatic,first,Diesel,,2.0
