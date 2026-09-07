@@ -19,7 +19,7 @@ app = FastAPI(
 )
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://used-price-car-prediction-website-2.onrender.com/"],
+    allow_origins=["https://used-price-car-prediction-website-2.onrender.com"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
