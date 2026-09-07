@@ -3,15 +3,15 @@ A professional, decoupled Machine Learning web ecosystem engineered to compute p
 ------------------------------
 ## 🏗 Visual System Architecture
 
-       [ React UI Form Dashboard ]  ◄── (Vite Dev Server : Port 5173)
+       [ React UI Form Dashboard ]  ◄── (Vite Dev Server)
                     │
              Axios API Payload
                     ▼
-       [ Express Routing Backend ]  ◄── (Node Engine : Port 5000)
+       [ Express Routing Backend ]  ◄── (Node Engine)
               │             │
         Direct Logs   Forward Payload
               ▼             ▼
-     [ .csv Storage ]  [ Flask Microservice ]  ◄── (Python Port : Port 8000)
+     [ .csv Storage ]  [ Flask Microservice ]  ◄── (Python Port)
                             │
                       Inference Engine
                             ▼
